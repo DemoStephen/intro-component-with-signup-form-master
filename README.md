@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [codewithstephen.com/solution/intro-component-with-signup-form](//your-solution-url.com)
-- Live Site URL: [codewithstephen.com/live/intro-component-with-signup-form](//your-live-site-url.com)
+- Solution URL: [codewithstephen.com/solution/intro-component-with-signup-form](//github.com/DemoStephen/intro-component-with-signup-form-master)
+- Live Site URL: [codewithstephen.com/live/intro-component-with-signup-form](//intro-component-with-signup-form-master-cyan.vercel.app/)
 
 ## My process
 
